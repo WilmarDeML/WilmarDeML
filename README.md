@@ -5,9 +5,9 @@
 #### Enamorado de la programación, el diseño web, todo lo que tenga que ver con desarrollo de software, en constante crecimiento a nivel personal y profesional, enfocado en hacer de mi la mejor versión cada día, con la mejor disposición para enfrentar la vida con todo lo que traiga, con la mente abierta para encontrar en cada situación una oportunidad de ser mejor y continuar aprendiendo.
 
 ### GitHub Profile 
-* [![](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
+* [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
 ### LinkedIn Profile
-- [![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
+- [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
 
 ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
