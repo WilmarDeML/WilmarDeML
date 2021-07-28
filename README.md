@@ -7,7 +7,7 @@
 ## Tech Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=javascript)
 ![Redux](https://img.shields.io/badge/Redux-blueviolet?style=social&logo=redux)
-![NodeJs](https://img.shields.io/badge/NodeJs-blueviolet?style=social&logo=nodedotjs)
+[![NodeJs](https://img.shields.io/badge/NodeJs-blueviolet?style=social&logo=nodedotjs)]()
 
 ### GitHub Profile 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
