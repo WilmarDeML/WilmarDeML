@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 [GitHub](http://github.com)
 
-[![](https://img.shields.io/badge/Perfil-GitHub-blue?style=social&logo=github&link=https://github.com/WilmarDeML&link=http://github.com)](https://github.com/WilmarDeML)
+[![](https://img.shields.io/badge/Perfil-GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
+[![](https://img.shields.io/badge/Perfil-LinkedIn-white?style=social&logo=linkedin)](https://github.com/WilmarDeML)
