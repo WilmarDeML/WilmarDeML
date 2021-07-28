@@ -11,7 +11,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-blueviolet?style=social&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-blueviolet?style=social&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
-- [![MongoDB](https://img.shields.io/badge/MongoDb-blueviolet?style=social&logo=mongodb)](https://www.mongodb.com/)
+- [![React](https://img.shields.io/badge/React-blueviolet?style=social&logo=react)](https://reactjs.org/) 
+[![MongoDB](https://img.shields.io/badge/MongoDb-blueviolet?style=social&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?style=social&logo=postgresql)](https://www.postgresql.org/)
 [![Express](https://img.shields.io/badge/Express-blueviolet?style=social&logo=express)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
