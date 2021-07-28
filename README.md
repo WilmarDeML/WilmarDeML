@@ -5,7 +5,7 @@
 #### Enamorado de la programación, el diseño web, todo lo que tenga que ver con desarrollo de software, en constante crecimiento a nivel personal y profesional, enfocado en hacer de mi la mejor versión cada día, con la mejor disposición para enfrentar la vida con todo lo que traiga, con la mente abierta para encontrar en cada situación una oportunidad de ser mejor y continuar aprendiendo.
 
 ## Tech Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=javascript&logoColor=rgb(240, 219, 79))
+![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=javascript)
 
 ### GitHub Profile 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
@@ -17,5 +17,6 @@
 ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 
+![Anurag's GitHub stats](https://github/WilmarDeML/WilmarDeML?show_icons=true&theme=radical)
 
 
