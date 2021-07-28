@@ -1,22 +1,13 @@
-# Hola, mi nombre es Wilmar De MelquisedecLisbet 👋
+# Hola, mi nombre es `Wilmar` De **MelquisedecLisbet** 👋
 
+* GitHub Profile 
+* [![](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
+- LinkedIn Profile
+- [![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
 
-**WilmarDeML/WilmarDeML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-* 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://hnet.com/video-to-gif/viewimage/20210727-15-H9qnetZq5BnVz9cU-ykOzvs-HNET)
 
 [GitHub](http://github.com)
 
-[![](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
-[![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
+
+
