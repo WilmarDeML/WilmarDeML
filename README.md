@@ -5,7 +5,7 @@
 ### LinkedIn Profile
 - [![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/WilmarDeML?style=for-the-badge)
+![GitHub Repo size](https://img.shields.io/github/repo-size/WilmarDeML/WilmarDeML?style=for-the-badge)
 
 [GitHub](http://github.com)
 
