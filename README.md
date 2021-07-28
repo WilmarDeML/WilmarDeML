@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [GitHub](http://github.com)
 
-[![Ejemplo](https://img.shields.io/badge/GitHub-Hola-blue)](http://github.com)
+![(https://img.shields.io/badge/GitHub-Hola-blue)](http://github.com)
 
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
   
