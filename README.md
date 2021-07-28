@@ -16,7 +16,3 @@
 ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-
-![Anurag's GitHub stats](https://github/WilmarDeML/WilmarDeML?show_icons=true&theme=radical)
-
-
