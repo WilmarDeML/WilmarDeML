@@ -10,7 +10,10 @@
 [![NodeJs](https://img.shields.io/badge/NodeJs-blueviolet?style=social&logo=nodedotjs)](https://nodejs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-blueviolet?style=social&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-blueviolet?style=social&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+
 - [![MongoDB](https://img.shields.io/badge/MongoDb-blueviolet?style=social&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?style=social&logo=postgresql)](https://www.postgresql.org/)
+
 
 ## Profiles
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
