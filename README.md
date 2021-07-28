@@ -11,9 +11,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-blueviolet?style=social&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-blueviolet?style=social&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
-### GitHub Profile 
+## Profiles
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
-### LinkedIn Profile
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
 
 ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
