@@ -13,7 +13,8 @@
 
 - [![MongoDB](https://img.shields.io/badge/MongoDb-blueviolet?style=social&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?style=social&logo=postgresql)](https://www.postgresql.org/)
-
+[![Express](https://img.shields.io/badge/Express-blueviolet?style=social&logo=express)](https://expressjs.com/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
 
 ## Profiles
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
