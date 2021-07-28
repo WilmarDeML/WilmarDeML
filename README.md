@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [GitHub](http://github.com)
 
-[![](https://img.shields.io/badge/Perfil-GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
+[![](https://img.shields.io/badge/Perfil-GitHub-blue?style=social&logo=github&logoWidth=40)](https://github.com/WilmarDeML)
