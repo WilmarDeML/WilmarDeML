@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [GitHub](http://github.com)
 
 [![](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
-[![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
+[![](https://img.shields.io/badge/LinkedIn-white?style=social&logo=#0A66C2)](https://www.linkedin.com/in/wilmardeml-dev/)
