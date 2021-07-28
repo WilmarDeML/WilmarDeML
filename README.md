@@ -6,6 +6,7 @@
 
 ## Tech Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=javascript)
+![Redux](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=redux)
 
 ### GitHub Profile 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
