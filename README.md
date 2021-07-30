@@ -38,6 +38,8 @@
     
   * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
     ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
+    ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/juancereceda/PG-Henry?style=for-the-badge&color=success)
+    ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/juancereceda/PG-Henry?style=for-the-badge&color=success)
  
 
 * ### Countries
@@ -48,5 +50,4 @@
   * ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
     ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
 
-<!-- ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success) -->
+
