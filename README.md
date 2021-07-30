@@ -29,15 +29,15 @@
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
  
   * #### Contributors
-    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea?style=social&logo=github)](https://github.com/CelenyAndrea)
-    [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-white?style=social&logo=github)](https://github.com/maurohaidr)
+    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
+    [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-blueviolet?style=social&logo=github)](https://github.com/RuthCodina)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-green?style=social&logo=github)](https://github.com/juancereceda)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-green?style=social&logo=github)](https://github.com/maurohaidr)
     
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@JotaCeR-white?style=social&logo=github)](https://github.com/JotaCeR)
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@Yiftleh-white?style=social&logo=github)](https://github.com/Yiftleh)
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@rafamossetto-white?style=social&logo=github)](https://github.com/rafamossetto)
-    [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-white?style=social&logo=github)](https://github.com/WilmarDeML)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@JotaCeR-green?style=social&logo=github)](https://github.com/JotaCeR)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@Yiftleh-green?style=social&logo=github)](https://github.com/Yiftleh)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@rafamossetto-green?style=social&logo=github)](https://github.com/rafamossetto)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
 
 * #### Countries
 - [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
