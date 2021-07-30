@@ -36,10 +36,10 @@
     [![GitHub JuanCereceda](https://img.shields.io/badge/@rafamossetto-green?style=social&logo=github)](https://github.com/rafamossetto)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
     
-  * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
-    ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
-    ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/juancereceda/PG-Henry?style=for-the-badge&color=success)
-    ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/juancereceda/PG-Henry?style=for-the-badge&color=success)
+  * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=for-the-badge&color=informational)
+    ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=for-the-badge&color=informational)
+    ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/juancereceda/PG-Henry?style=for-the-badge&color=informational)
+    ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/juancereceda/PG-Henry?style=for-the-badge&color=informational)
  
 
 * ### Countries
