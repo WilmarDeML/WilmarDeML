@@ -23,7 +23,7 @@
 
 ## Projects
 * #### Autocinema
-  * [![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
+  * [![GitHub Repo1](https://img.shields.io/badge/Repo_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
  [![Deploy Vercel](https://img.shields.io/badge/Deploy_Autocinema-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)
   * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
