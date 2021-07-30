@@ -23,13 +23,13 @@
 
 ## Projects
 * #### Autocinema
-  * [![GitHub Repo1](https://img.shields.io/badge/Repo_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
- [![Deploy Vercel](https://img.shields.io/badge/Deploy_Autocinema-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)
+  * [![GitHub Repo1](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
+ [![Deploy Vercel](https://img.shields.io/badge/Deploy-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)
   * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
  
   * #### Contributors
-    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
+    [![GitHub Celeny](https://img.shields.io/badge/Hola-@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-white?style=social&logo=github)](https://github.com/maurohaidr)
