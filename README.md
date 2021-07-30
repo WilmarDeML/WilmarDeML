@@ -22,10 +22,15 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
 
 ## Projects
-[![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
-[![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
+-[![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
+![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/PG-Henry?style=for-the-badge&color=success)
+![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/PG-Henry?style=for-the-badge&color=success)
+![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/PG-Henry?style=for-the-badge&color=success)
+![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/PG-Henry?style=for-the-badge&color=success)
 
-![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
+
+-[![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
+![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/PI-Countries-FT13?style=for-the-badge&color=success)
+![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/PI-Countries-FT13?style=for-the-badge&color=success)
+![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/PI-Countries-FT13?style=for-the-badge&color=success)
+![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/PI-Countries-FT13?style=for-the-badge&color=success)
