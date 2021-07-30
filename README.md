@@ -29,7 +29,7 @@
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
  
   * #### Contributors
-    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-purple?style=social&logo=github)](https://github.com/CelenyAndrea)
+    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-white?style=social&logo=github)](https://github.com/maurohaidr)
