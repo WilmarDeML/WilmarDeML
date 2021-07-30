@@ -29,9 +29,9 @@
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
  
   * #### Contributors
- [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-white?style=social&logo=github)](https://github.com/CelenyAndrea)
- [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
- [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
+    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-white?style=social&logo=github)](https://github.com/CelenyAndrea)
+    [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
+    [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
 
 * #### Countries
 - [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
