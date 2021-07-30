@@ -22,11 +22,13 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
 
 ## Projects
-- [![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
+* #### Autocinema
+ [![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
+ [![Deploy Vercel](https://img.shields.io/badge/Deploy_Autocinema-blueviolet?style=social&logo=vercel)](https://henry-movie-app.vercel.app/)
 ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
 ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
-- [![Deploy Vercel](https://img.shields.io/badge/Deploy_Autocinema-blueviolet?style=social&logo=vercel)](https://henry-movie-app.vercel.app/)
-- #### Contributors
+ 
+#### Contributors
 [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-white?style=social&logo=linkedin)](https://github.com/CelenyAndrea)
 [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=linkedin)](https://github.com/juancereceda)
 
