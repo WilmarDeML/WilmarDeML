@@ -33,6 +33,7 @@
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-white?style=social&logo=github)](https://github.com/RuthCodina)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-white?style=social&logo=github)](https://github.com/juancereceda)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-white?style=social&logo=github)](https://github.com/maurohaidr)
+    
     [![GitHub JuanCereceda](https://img.shields.io/badge/@JotaCeR-white?style=social&logo=github)](https://github.com/JotaCeR)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@Yiftleh-white?style=social&logo=github)](https://github.com/Yiftleh)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@rafamossetto-white?style=social&logo=github)](https://github.com/rafamossetto)
