@@ -8,11 +8,6 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-blue?style=social&logo=github)](https://github.com/WilmarDeML)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-white?style=social&logo=linkedin)](https://www.linkedin.com/in/wilmardeml-dev/)
 
-![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
-
 ## Tech Skills
 - [![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=social&logo=javascript)](https://www.javascript.com/)
 [![Redux](https://img.shields.io/badge/Redux-blueviolet?style=social&logo=redux)](https://redux.js.org/)
@@ -29,3 +24,8 @@
 ## Projects
 [![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
 [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
+
+![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
+![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
+![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
+![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
