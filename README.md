@@ -24,8 +24,7 @@
 ## Projects
 * #### Autocinema
   * [![GitHub Repo1](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
- [![Deploy Vercel](https://img.shields.io/badge/Deploy-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)
-  
+ [![Deploy Vercel](https://img.shields.io/badge/Deploy-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)  
   * #### Contributors
     [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-blueviolet?style=social&logo=github)](https://github.com/RuthCodina)
