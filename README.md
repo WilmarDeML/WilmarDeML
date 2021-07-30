@@ -41,7 +41,7 @@
  
 
 * #### Countries
-  * [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
+  * [![GitHub Repo2](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
   * #### Contributors
     [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
     
