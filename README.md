@@ -22,11 +22,11 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
 
 ## Projects
-* #### Autocinema
+* ### Autocinema
   * [![GitHub Repo1](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
  [![Deploy Vercel](https://img.shields.io/badge/Deploy-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)  
   * #### Contributors
-    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
+    [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github&labelColor=blueviolet)](https://github.com/CelenyAndrea)
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-blueviolet?style=social&logo=github)](https://github.com/RuthCodina)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@juancereceda-green?style=social&logo=github)](https://github.com/juancereceda)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@maurohaidr-green?style=social&logo=github)](https://github.com/maurohaidr)
@@ -40,7 +40,7 @@
     ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
  
 
-* #### Countries
+* ### Countries
   * [![GitHub Repo2](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
   * #### Contributors
     [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
