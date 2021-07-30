@@ -25,9 +25,7 @@
 * #### Autocinema
   * [![GitHub Repo1](https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PG-Henry)
  [![Deploy Vercel](https://img.shields.io/badge/Deploy-blueviolet?style=plastic&logo=vercel&labelColor=important)](https://henry-movie-app.vercel.app/)
-  * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
-![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
- 
+  
   * #### Contributors
     [![GitHub Celeny](https://img.shields.io/badge/@CelenyAndrea-blueviolet?style=social&logo=github)](https://github.com/CelenyAndrea)
     [![GitHub Celeny](https://img.shields.io/badge/@RuthCodina-blueviolet?style=social&logo=github)](https://github.com/RuthCodina)
@@ -38,13 +36,17 @@
     [![GitHub JuanCereceda](https://img.shields.io/badge/@Yiftleh-green?style=social&logo=github)](https://github.com/Yiftleh)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@rafamossetto-green?style=social&logo=github)](https://github.com/rafamossetto)
     [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
+    
+  * ![GitHub Language count](https://img.shields.io/github/languages/count/juancereceda/PG-Henry?style=plastic&color=success)
+    ![GitHub Top language](https://img.shields.io/github/languages/top/juancereceda/PG-Henry?style=plastic&color=success)
+ 
 
 * #### Countries
-  - [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
-  ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
-  ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
-  - Contributors
+  * [![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
+  * #### Contributors
     [![GitHub JuanCereceda](https://img.shields.io/badge/@WilmarDeML-green?style=social&logo=github)](https://github.com/WilmarDeML)
+  * ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
+    ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/PI-Countries-FT13?style=plastic&color=success)
 
 <!-- ![GitHub Pull requests](https://img.shields.io/github/issues-pr-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success)
 ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/WilmarDeML?style=for-the-badge&color=success) -->
