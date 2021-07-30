@@ -27,5 +27,5 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-blueviolet?style=social&logo=sequelize)](https://sequelize.org/)
 
 ## Projects
-[![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=social&logo=github)](https://github.com/WilmarDeML/PG-Henry)
-[![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=social&logo=github)](https://github.com/WilmarDeML/PI-Countries-FT13)
+[![GitHub Repo1](https://img.shields.io/badge/PG_Autocinema-blueviolet?style=plastic&logo=github)](https://github.com/WilmarDeML/PG-Henry)
+[![GitHub Repo2](https://img.shields.io/badge/PI_Countries-blueviolet?style=plastic&logo=github&labelColor=important)](https://github.com/WilmarDeML/PI-Countries-FT13)
