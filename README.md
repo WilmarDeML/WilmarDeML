@@ -57,3 +57,4 @@
     
   * ![GitHub Language count](https://img.shields.io/github/languages/count/WilmarDeML/climApp?style=plastic&color=success)
     ![GitHub Top language](https://img.shields.io/github/languages/top/WilmarDeML/climApp?style=plastic&color=success)
+    ![GitHub Closed Pull requests](https://img.shields.io/github/issues-pr-closed-raw/WilmarDeML/climApp?style=plastic&color=informational)
